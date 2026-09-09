@@ -402,6 +402,40 @@ Data Preparation
 Python
   ↓
 Data Analysis
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+Data-Scientist-Course/
+│
+├── 01-SQL-Server/
+│   ├── README.md
+│   ├── notebooks/
+│   ├── exercises/
+│   └── images/
+│
+├── 02-Power-BI/
+│   ├── README.md
+│   ├── notebooks/
+│   ├── projects/
+│   └── images/
+│
+├── 03-Python/
+│   ├── README.md
+│   ├── notebooks/
+│   ├── exercises/
+│   └── images/
+│
+├── 04-Data-Science-with-Python/
+│   ├── README.md
+│   ├── notebooks/
+│   ├── exercises/
+│   └── images/
+│
+├── 05-Final-Project/
+│   ├── README.md
+│   ├── notebooks/
+│   ├── data/
+│   └── images/
+│
+└── README.md
   ↓
 Machine Learning
   ↓
